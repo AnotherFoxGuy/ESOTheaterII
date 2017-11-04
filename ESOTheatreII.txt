@@ -1,0 +1,20 @@
+## Title: ESO Theatre II
+## Author: Halja, II by AnotherFoxGuy
+## Version: 2.0
+## APIVersion: 100021
+## SavedVariables: ESOTheatreIISavedVariables
+##
+## This Add-on is not created by, affiliated with or sponsored by ZeniMax Media Inc. or its affiliates.
+## The Elder Scrolls® and related logos are registered trademarks or trademarks of ZeniMax Media Inc.
+## in the United States and/or other countries. All rights reserved
+## https://account.elderscrollsonline.com/add-on-terms
+##
+
+
+ESOTheatreII.lua
+ESOTheatreIISettings.lua
+forms/ESOEmotesListGUI.lua
+forms/ESOEmotesListGUI.xml
+forms/ESOFavoritesGUI.lua
+forms/ESOFavoritesGUI.xml
+Bindings.xml

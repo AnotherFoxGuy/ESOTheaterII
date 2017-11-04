@@ -1,0 +1,45 @@
+<Bindings>
+	<Layer name="SI_KEYBINDINGS_LAYER_GENERAL">
+		<Category name="ESO Theatre II Emotes">
+		  <Action name="DISPLAY_ESOTHEATER">
+			<Down>ESOTheatreII.ToggleAddon() return true</Down>
+		  </Action>
+		  <Action name="DISPLAY_EMOTES">
+			<Down>ESOTheatreII.ToggleEmotesWindow() return true</Down>
+		  </Action>		  
+		  <Action name="QUICK_EMOTE_01">
+			<Down>ESOTheatreII.QuickEmotes( 1 ) return true</Down>
+		  </Action>		  
+		  <Action name="QUICK_EMOTE_02">
+			<Down>ESOTheatreII.QuickEmotes( 2 ) return true</Down>
+		  </Action>		  
+		  <Action name="QUICK_EMOTE_03">
+			<Down>ESOTheatreII.QuickEmotes( 3 ) return true</Down>
+		  </Action>		  
+		  <Action name="QUICK_EMOTE_04">
+			<Down>ESOTheatreII.QuickEmotes( 4 ) return true</Down>
+		  </Action>		  
+		  <Action name="QUICK_EMOTE_05">
+			<Down>ESOTheatreII.QuickEmotes( 5 ) return true</Down>
+		  </Action>		  
+		  <Action name="QUICK_EMOTE_06">
+			<Down>ESOTheatreII.QuickEmotes( 6 ) return true</Down>
+		  </Action>		  
+		  <Action name="QUICK_EMOTE_07">
+			<Down>ESOTheatreII.QuickEmotes( 7 ) return true</Down>
+		  </Action>		  
+		  <Action name="QUICK_EMOTE_08">
+			<Down>ESOTheatreII.QuickEmotes( 8 ) return true</Down>
+		  </Action>		  
+		  <Action name="QUICK_EMOTE_09">
+			<Down>ESOTheatreII.QuickEmotes( 9 ) return true</Down>
+		  </Action>		  
+		  <Action name="QUICK_EMOTE_10">
+			<Down>ESOTheatreII.QuickEmotes( 10 ) return true</Down>
+		  </Action>		  
+		  <Action name="RANDOM_EMOTE">
+			<Down>ESOTheatreII.RandomEmote() return true</Down>
+		  </Action>		  
+		</Category>
+	</Layer>
+</Bindings>
