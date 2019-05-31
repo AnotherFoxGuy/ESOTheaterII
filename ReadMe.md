@@ -9,10 +9,6 @@ This is a new version of the addon because the original hasn't been updated sinc
 * Fixed ```attempt to index a nil value``` bug
 * Repositioned and updated the favourite edit buttons
 
-### Known bugs
-* Favourites button is too small to display some emotes names
-* Emotes list window doesn't show the list correctly after startup (Scrolling or selecting a different category fixes it)
-* Some categories are empty
 
 Original Readme from ESO Theatre
 --------------------

@@ -1,6 +1,9 @@
+Version 2.0.1 -- 31/05/2019
+  Updated to API release 100027
+  Fixed emotes list window doesn't show the list correctly after startup
+
 Version 1.0
   Updated to API release 100021
-
 
 Version 0.4.8 -- 10/22/2016
 	Updated to API release 100017 (Patch 2.6.4)

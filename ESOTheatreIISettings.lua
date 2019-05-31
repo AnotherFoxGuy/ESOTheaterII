@@ -6,18 +6,18 @@ TransparencyLevel = 1 to 100
 
 Below loaded to savedvars file
 --]]--
-ESOTheatreII.UserSettings = 
+ESOTheatreII.UserSettings =
 {
-	["StageLocation"] = 
-	{
-		["Xoffset"] = 30,
-		["Yoffset"] = 20,
-	},
-	["PlaybillLocation"] = 
-	{
-		["Xoffset"] = 360,
-		["Yoffset"] = 20,
-	},
-	["TransparencyLevel"] = 25,
-	["ChannelPush"] = 0,
+  ["StageLocation"] =
+  {
+    ["Xoffset"] = 30,
+    ["Yoffset"] = 20,
+  },
+  ["PlaybillLocation"] =
+  {
+    ["Xoffset"] = 360,
+    ["Yoffset"] = 20,
+  },
+  ["TransparencyLevel"] = 25,
+  ["ChannelPush"] = 0,
 }

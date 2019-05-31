@@ -1,7 +1,7 @@
 ## Title: ESO Theatre II
 ## Author: Halja, II by AnotherFoxGuy
-## Version: 2.0
-## APIVersion: 100021
+## Version: 2.1.0
+## APIVersion: 100027
 ## SavedVariables: ESOTheatreIISavedVariables
 ##
 ## This Add-on is not created by, affiliated with or sponsored by ZeniMax Media Inc. or its affiliates.
