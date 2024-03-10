@@ -13,9 +13,9 @@ ESOTheatreII = {
   Name = "ESOTheatreII",
   Title = "ESO Theatre II",
   Author = "Halja, II by AnotherFoxGuy",
-  Version = "2.1.0",
+  Version = "2.1.1",
   SV = "ESOTheatreIISavedVariables",
-  SVersion = "2.1.0",
+  SVersion = "2.1.1",
   CurrentSVars = {},
 }
 
